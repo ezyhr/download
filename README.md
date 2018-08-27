@@ -1,5 +1,5 @@
 # Download โปรแกรมเงินเดือน
-Resource download for EZYHR
+แหล่งรวบรวมข้อมูลดาวน์โหลด โปรแกรมเงินเดือน ฟรี สำหรับ EZYHR 
 
 [โปรแกรมเงินเดือน](https://www.ezy-hr.com)
 
