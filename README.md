@@ -1,4 +1,4 @@
-# resource
+# Download โปรแกรมเงินเดือน
 Resource download for EZYHR
 
 [โปรแกรมเงินเดือน](https://www.ezy-hr.com)
